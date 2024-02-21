@@ -1,0 +1,14 @@
+{
+  "name": "cma-code-along",
+  "version": "1.0.0",
+  "description": "simple app demonstrating use of the contentful management api",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andy J",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-management": "^11.17.0"
+  }
+}
